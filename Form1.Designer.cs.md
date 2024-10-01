@@ -8,6 +8,8 @@ namespace StudentTodo
             InitializeComponent();
         }
 
+
+//These will provide functionality to the buttons
         private void button1_Click(object sender, EventArgs e)
         {
 
